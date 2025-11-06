@@ -1,4 +1,6 @@
-# CPP-game
+# CPP-games and Mini projects
+
+Purpose: Learn C++
 
 An automatic game of: Rock, Scissor and Paper.
 The winner and looser is the one who choose the computer
