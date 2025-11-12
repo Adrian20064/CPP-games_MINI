@@ -13,8 +13,11 @@ Run it:
 
 ---
 
-An calculator made with CPP, that runs on the terminal
-and its infinit until you press "5" which is the exit buttom
+An Scientific calculator with multiplication, addition, substraction, division, exponent, square root.
+Run on the Terminal and its infinite until you press "7" which is the exit buttom.
+
+NOTE: As the square root are not common symbols as the others, on the terminal you are gonna see for example: "ÔêÜ b" or "ÔêÜ a"
+But its running okay.
 
 Run it:
 
