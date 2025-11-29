@@ -4,6 +4,7 @@
       "name": "Win32",
       "includePath": [
         "${workspaceFolder}/**",
+        "C:/Users/santi/SFML-3.0.2/lib",
         "C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
         "C:/msys64/ucrt64/include",
         "C:/Users/santi/SFML-3.0.2/include",
