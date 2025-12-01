@@ -1,4 +1,0 @@
-# .gitignore — ignore sensitive data, OS/IDE files, build artifacts for C++ projects on Windows
-
-# Editor / IDE
-.vscode/
