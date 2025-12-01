@@ -23,3 +23,15 @@ Run it:
 
 - g++ Calculator_terminal.cpp -o (the name wiht .exe)
 - ./(the name wiht .exe)
+
+---
+
+GPA calculator on the terminal where you can see if you pass or not the
+cours
+
+NOTE: This GPA calculator is based on grades over 10.
+
+Run it:
+
+- g++ gpa_calculator.cp.cpp -o (the name wiht .exe)
+- ./(the name wiht .exe)
