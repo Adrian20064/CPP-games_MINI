@@ -40,13 +40,13 @@ Run it:
 
 A bank manager on the terminal, with options as:
 
-send money
+-send money
 
-cash out / cash in money
+-cash out / cash in money
 
-create new accounts
+-create new accounts
 
-view balance
+-view balance
 
 Run it:
 
