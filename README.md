@@ -40,12 +40,16 @@ Run it:
 
 A bank manager on the terminal, with options as:
 
-- send money
-  -cash out/cash in money
-  -create new accounts
-  -view balance
+send money
+
+cash out / cash in money
+
+create new accounts
+
+view balance
 
 Run it:
 
-- g++ bank_managment.cpp -o (the name wiht .exe)
-- ./(the name wiht .exe)
+g++ bank_managment.cpp -o (the name with .exe)
+
+./(the name with .exe)
