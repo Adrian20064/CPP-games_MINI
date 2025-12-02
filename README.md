@@ -35,3 +35,15 @@ Run it:
 
 - g++ gpa_calculator.cp.cpp -o (the name wiht .exe)
 - ./(the name wiht .exe)
+
+---
+
+A bank manager on the terminal, with options as:- send money
+-cash out/cash in money
+-create new accounts
+-view balance
+
+Run it:
+
+- g++ bank_managment.cpp -o (the name wiht .exe)
+- ./(the name wiht .exe)
