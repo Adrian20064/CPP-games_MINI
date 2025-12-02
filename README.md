@@ -38,10 +38,12 @@ Run it:
 
 ---
 
-A bank manager on the terminal, with options as:- send money
--cash out/cash in money
--create new accounts
--view balance
+A bank manager on the terminal, with options as:
+
+- send money
+  -cash out/cash in money
+  -create new accounts
+  -view balance
 
 Run it:
 
